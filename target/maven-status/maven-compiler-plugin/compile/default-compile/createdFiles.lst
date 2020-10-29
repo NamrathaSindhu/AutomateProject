@@ -1,0 +1,6 @@
+com\qa\automate\healthcare\base\Results.class
+com\qa\automate\healthcare\base\Utility.class
+com\qa\automate\healthcare\pages\LoginPage.class
+com\qa\automate\healthcare\base\BaseTest.class
+com\info\Automate\App.class
+com\qa\automate\healthcare\base\IAutoConstant.class

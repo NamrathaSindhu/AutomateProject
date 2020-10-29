@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.automate.healthcare.tests.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 44.768 s <<< FAILURE! - in com.qa.automate.healthcare.tests.LoginTest
+login(com.qa.automate.healthcare.tests.LoginTest)  Time elapsed: 3.615 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.qa.automate.healthcare.tests.LoginTest.login(LoginTest.java:14)
+
